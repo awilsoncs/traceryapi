@@ -9,6 +9,7 @@ verify_ssl = true
 flask = "*"
 tracery = "*"
 flask-json = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
