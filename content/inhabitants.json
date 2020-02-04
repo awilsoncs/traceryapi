@@ -1,0 +1,81 @@
+{
+    "origin": [
+        "#uncivilized#, #presence#",
+        "#uncivilized#, #presence#",
+        "#uncivilized#, #presence#",
+        "#faction#, #civil_presence#",
+        "#faction#, #civil_presence#",
+        "#faction#, #civil_presence#",
+        "#a_single_large_thing#, #status#"
+    ],
+    "uncivilized": [
+        "drift denizens",
+        "sentient crystals",
+        "space fauna"
+    ],
+    "a_single_large_thing": [
+        "an elder god",
+        "an otherworldly horror",
+        "a world eater",
+        "a living planet"
+    ],
+    "status": [
+        "sleeping",
+        "dead",
+        "being born",
+        "enraged",
+        "beckoning"
+    ],
+    "presence": [
+        "heavy presence",
+        "medium presence",
+        "light presence",
+        "grave",
+        "nests"
+    ],
+    "faction": [
+        "#political_faction#",
+        "#political_faction#",
+        "#political_faction#",
+        "#political_faction#",
+        "rebel #political_faction#",
+        "scum",
+        "alien menace",
+        "otherworldly entities",
+        "The Tek",
+        "free people"
+    ],
+    "political_faction": [
+        "feudalists",
+        "imperialists",
+        "capitalists",
+        "militarists",
+        "pacifists",
+        "authoritarians",
+        "egalitarians",
+        "materialists",
+        "spiritualists",
+        "rebels",
+        "xenophobes",
+        "xenophiles",
+        "spacers"
+    ],
+    "civil_presence": [
+        "starbase",
+        "heavy presence",
+        "medium presence",
+        "light presence",
+        "outpost",
+        "colonists",
+        "farmers",
+        "civilians",
+        "scouts",
+        "mining drones",
+        "extremists",
+        "Trading Post",
+        "scientists",
+        "explorers",
+        "refugees",
+        "holy site"
+    ]
+}
